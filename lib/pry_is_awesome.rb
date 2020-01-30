@@ -1,3 +1,7 @@
+var inside_the_method
+inside_the_method
+
+ruby lib/pry_is_awesome.rb 
 require 'pry'
 
 def prying_into_the_method
@@ -10,3 +14,4 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+ruby lib/pry_is_awesome.ruby
